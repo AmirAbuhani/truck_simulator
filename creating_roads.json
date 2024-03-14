@@ -1,0 +1,14 @@
+
+[
+  {
+    "road_type": "street",
+    "length": 20
+  },
+  {
+    "road_type": "rural",
+     "length": 50
+   }
+]
+
+
+
